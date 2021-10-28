@@ -48,7 +48,6 @@ const AddUser = ({ onAddUser }) => {
                     <Button type="submit">Add User</Button>
                 </form>
             </Card>
-
         </>
     )
 }
